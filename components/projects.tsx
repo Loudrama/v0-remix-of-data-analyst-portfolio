@@ -193,7 +193,7 @@ export function Projects() {
                   className="bg-gradient-to-r from-primary to-primary/90 hover:from-primary/90 hover:to-primary text-primary-foreground px-8 transition-all duration-300 transform hover:scale-105"
                   asChild
                 >
-                  <a href="mailto:abdelamardoul@gmail.com">
+                  <a href="mailto:abdelamardoul@gmail.com" rel="noopener noreferrer">
                     <ExternalLink className="mr-2 h-5 w-5" />
                     Get In Touch
                   </a>

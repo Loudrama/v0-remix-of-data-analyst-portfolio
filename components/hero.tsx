@@ -22,10 +22,9 @@ export function Hero() {
             </p>
 
             <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto text-pretty leading-relaxed animate-fade-in-delay-2">
-              Biology graduate turned data enthusiast, currently completing{" "}
-              <span className="font-semibold text-primary">Common Core</span> at 1337 School. Passionate about
-              transforming data into actionable insights. Seeking internship or entry-level opportunities to apply my
-              analytical skills and grow in the field of data analysis.
+              1337 School student completing Common Core and passionate about transforming data into insights. Currently
+              pursuing IBM Data Analyst and Google Data Analytics certifications while seeking internship or entry-level
+              opportunities to grow and contribute to data-driven decision making.
             </p>
           </div>
 
@@ -72,7 +71,7 @@ export function Hero() {
               className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted hover:text-foreground transition-all duration-300 transform hover:scale-105"
               asChild
             >
-              <a href="mailto:abdelamardoul@gmail.com">
+              <a href="mailto:abdelamardoul@gmail.com" rel="noopener noreferrer">
                 <Mail className="mr-3 h-6 w-6" />
                 Contact Me
               </a>
