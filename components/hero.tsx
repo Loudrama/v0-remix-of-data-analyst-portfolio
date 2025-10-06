@@ -11,7 +11,7 @@ export function Hero() {
         <div className="space-y-10">
           <div className="space-y-6">
             <div className="animate-fade-in">
-              <h1 className="text-6xl md:text-8xl font-bold text-foreground text-balance bg-gradient-to-r from-foreground via-primary to-emerald-600 bg-clip-text text-transparent">
+              <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-foreground text-balance bg-gradient-to-r from-foreground via-primary to-emerald-600 bg-clip-text text-transparent">
                 Amardoul Abdellah
               </h1>
               <div className="h-1 w-32 bg-gradient-to-r from-primary to-emerald-500 mx-auto mt-4 rounded-full" />
@@ -43,7 +43,7 @@ export function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted/50 transition-all duration-300 transform hover:scale-105"
+              className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted hover:text-foreground transition-all duration-300 transform hover:scale-105"
               asChild
             >
               <a href="https://github.com/Loudrama" target="_blank" rel="noopener noreferrer">
@@ -54,7 +54,7 @@ export function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted/50 transition-all duration-300 transform hover:scale-105"
+              className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted hover:text-foreground transition-all duration-300 transform hover:scale-105"
               asChild
             >
               <a
@@ -69,7 +69,7 @@ export function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted/50 transition-all duration-300 transform hover:scale-105"
+              className="px-10 py-6 text-lg font-semibold bg-background/80 backdrop-blur-sm border-2 hover:bg-muted hover:text-foreground transition-all duration-300 transform hover:scale-105"
               asChild
             >
               <a href="mailto:abdelamardoul@gmail.com">

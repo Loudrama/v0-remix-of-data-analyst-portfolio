@@ -39,31 +39,31 @@ export function Navigation() {
             <Button
               variant="ghost"
               onClick={() => scrollToSection("hero")}
-              className="text-muted-foreground hover:text-foreground"
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
             >
               Home
             </Button>
             <Button
               variant="ghost"
               onClick={() => scrollToSection("skills")}
-              className="text-muted-foreground hover:text-foreground"
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
             >
               Skills
             </Button>
             <Button
               variant="ghost"
               onClick={() => scrollToSection("projects")}
-              className="text-muted-foreground hover:text-foreground"
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
             >
               Projects
             </Button>
           </div>
-          <div className="md:hidden">
+          <div className="md:hidden flex gap-2">
             <Button
               variant="ghost"
               size="sm"
               onClick={() => scrollToSection("skills")}
-              className="text-muted-foreground hover:text-foreground mr-2"
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
             >
               Skills
             </Button>
@@ -71,7 +71,7 @@ export function Navigation() {
               variant="ghost"
               size="sm"
               onClick={() => scrollToSection("projects")}
-              className="text-muted-foreground hover:text-foreground"
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
             >
               Projects
             </Button>

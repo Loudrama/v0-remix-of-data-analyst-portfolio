@@ -115,7 +115,7 @@ export function Projects() {
                       <Button
                         size="sm"
                         variant="ghost"
-                        className="h-9 w-9 p-0 opacity-0 group-hover:opacity-100 transition-all duration-300 hover:bg-background/80"
+                        className="h-9 w-9 p-0 opacity-0 group-hover:opacity-100 transition-all duration-300 hover:bg-muted hover:text-foreground cursor-pointer"
                         asChild
                       >
                         <a href={project.githubUrl} target="_blank" rel="noopener noreferrer">
@@ -180,7 +180,7 @@ export function Projects() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="px-8 bg-background/80 hover:bg-muted/50 transition-all duration-300 transform hover:scale-105"
+                  className="px-8 bg-background/80 hover:bg-muted hover:text-foreground transition-all duration-300 transform hover:scale-105 cursor-pointer"
                   asChild
                 >
                   <a href="https://github.com/Loudrama" target="_blank" rel="noopener noreferrer">

@@ -130,14 +130,14 @@ export function Skills() {
               <h4 className="font-bold text-lg text-foreground mb-2">IBM Data Analytics</h4>
               <p className="text-sm text-muted-foreground mb-2">Professional Certificate</p>
               <Badge variant="outline" className="text-xs border-primary text-primary">
-                Learning
+                In Progress
               </Badge>
             </div>
             <div className="bg-background/60 rounded-lg p-6 border border-border/30">
               <h4 className="font-bold text-lg text-foreground mb-2">Google Data Analytics</h4>
               <p className="text-sm text-muted-foreground mb-2">Professional Certificate</p>
               <Badge variant="outline" className="text-xs border-primary text-primary">
-                Learning
+                In Progress
               </Badge>
             </div>
           </div>
