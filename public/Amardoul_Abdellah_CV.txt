@@ -1,0 +1,111 @@
+AMARDOUL ABDELLAH
+Data Analyst
+
+Phone: +212 643936198
+Email: abdelamardoul@gmail.com
+Address: N 142 yassmina 02 khouribga
+LinkedIn: https://www.linkedin.com/in/abdellah-amardoul-752a32229/
+GitHub: https://github.com/Loudrama
+
+================================================================================
+PROFILE
+================================================================================
+
+Highly motivated and analytical individual with a strong foundation in 
+mathematics, problem-solving, and structured thinking. Recently completed the 
+Common Core program at 1337 Coding School, combining technical programming 
+skills with logical analysis. Passionate about interpreting complex datasets, 
+uncovering insights, and creating actionable solutions. Seeking a Data Analyst 
+internship or entry-level position where I can apply my analytical mindset, 
+technical skills, and curiosity to drive informed decisions.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Programming & Tools:
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (queries, joins, aggregations)
+- Excel (Formulas, Pivot Tables, Charts)
+- Power BI (dashboards, visualization)
+- C, C++ (structured problem-solving)
+- Git, Linux
+- HTML, CSS, JavaScript (basic)
+
+Data & Analytical Skills:
+- Data Cleaning & Preprocessing
+- Data Visualization & Dashboards
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Hypothesis Testing
+- KPI Tracking & Reporting
+- Quantitative Analysis & Pattern Recognition
+- Trend Analysis & Business Insights
+- Data-Driven Decision Making
+
+Soft Skills:
+- Attention to Detail
+- Problem Solving & Critical Thinking
+- Communication of Insights
+- Team Collaboration
+- Adaptability & Fast Learning
+
+================================================================================
+EDUCATION
+================================================================================
+
+1337 Coding School - UM6P                                        2022 - 2025
+Common Core Program
+- Algorithms, data structures, and software engineering principles
+- Project-based learning with real-world applications
+
+Universite Sultan Moulay Slimane - Khouribga                     2019 - 2022
+Bachelor's Degree in Biology
+- Developed analytical thinking through lab experiments and data collection
+- Strong foundation in scientific methodology and research
+
+Baccalaureate in Sciences (SVT)                                       2019
+
+================================================================================
+PROJECTS & EXPERIENCE
+================================================================================
+
+Cub3D - 3D Raycasting Engine | 1337 Coding School
+- Built a 3D game engine using raycasting algorithms in C
+- Demonstrated mathematical problem-solving and algorithmic thinking
+- Applied computational geometry and graphics programming principles
+- Technologies: C, Graphics Programming, Algorithms
+
+Transcendence - Web Application | 1337 Coding School
+- Developed dashboards displaying real-time metrics and insights
+- Applied structured thinking to organize data flows and user interactions
+- Built skills in data interpretation and visualization
+- Technologies: Web Development, Data Visualization
+
+IRC - Internet Relay Chat Server | 1337 Coding School
+- Managed real-time multi-user data streams
+- Gained experience in data accuracy, consistency, and monitoring
+- Implemented network protocols and data handling
+- Technologies: C++, Network Programming
+
+So Long - 2D Game Project | 1337 Coding School
+- Implemented structured logic and rules similar to data modeling
+- Practiced breaking down complex problems into actionable steps
+- Developed algorithmic thinking and problem-solving skills
+- Technologies: C, Game Logic, Algorithms
+
+================================================================================
+CERTIFICATIONS (In Progress)
+================================================================================
+
+- Google Data Analytics Professional Certificate
+- IBM Data Analyst Professional Certificate
+
+================================================================================
+LANGUAGES
+================================================================================
+
+Arabic: Native
+French: Intermediate
+English: Good
+
+================================================================================
