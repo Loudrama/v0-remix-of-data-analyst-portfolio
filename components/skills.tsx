@@ -111,18 +111,11 @@ export function Skills() {
             </div>
             <h3 className="text-2xl font-bold text-card-foreground">Education & Certifications</h3>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             <div className="bg-background/60 rounded-lg p-6 border border-border/30">
               <h4 className="font-bold text-lg text-foreground mb-2">1337 School (UM6P)</h4>
               <p className="text-sm text-muted-foreground mb-2">Common Core Program</p>
-              <Badge variant="secondary" className="text-xs">
-                In Progress
-              </Badge>
-            </div>
-            <div className="bg-background/60 rounded-lg p-6 border border-border/30">
-              <h4 className="font-bold text-lg text-foreground mb-2">Biology Degree</h4>
-              <p className="text-sm text-muted-foreground mb-2">University Background</p>
-              <Badge variant="secondary" className="text-xs">
+              <Badge variant="secondary" className="text-xs bg-emerald-500/10 text-emerald-600 border-emerald-500/20">
                 Completed
               </Badge>
             </div>
