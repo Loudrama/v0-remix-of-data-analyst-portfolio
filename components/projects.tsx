@@ -5,6 +5,29 @@ import { Github, BarChart3, MessageSquare, Gamepad2, ExternalLink, Lightbulb, Gr
 
 const projects = [
   {
+    title: "Seller Performance Analytics Extension",
+    description:
+      "A Chrome extension that provides real-time seller performance metrics and KPI tracking. Integrates with company databases to deliver actionable business intelligence directly to users, demonstrating expertise in data visualization and business analytics.",
+    icon: BarChart3,
+    technologies: [
+      "Python",
+      "SQL",
+      "Data Visualization",
+      "Chrome Extension",
+      "Real-time Analytics",
+      "Business Intelligence",
+    ],
+    githubUrl: "https://github.com/Loudrama",
+    highlights: [
+      "Real-time performance metrics",
+      "Interactive KPI dashboard",
+      "Data aggregation and analysis",
+      "User-friendly analytics interface",
+    ],
+    gradient: "from-cyan-500/10 via-blue-500/10 to-indigo-500/10",
+    iconColor: "text-cyan-600",
+  },
+  {
     title: "Cub3D",
     description:
       "Developed a 3D game engine using raycasting techniques in C, inspired by Wolfenstein 3D. This 42 School project demonstrates strong algorithmic thinking, mathematical problem-solving, and graphics programming fundamentals essential for data visualization and computational analysis.",

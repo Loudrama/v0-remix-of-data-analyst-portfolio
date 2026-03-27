@@ -22,9 +22,9 @@ export function Hero() {
             </p>
 
             <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto text-pretty leading-relaxed animate-fade-in-delay-2">
-              1337 School student completing Common Core and passionate about transforming data into insights. Currently
-              pursuing IBM Data Analyst and Google Data Analytics certifications while seeking internship or entry-level
-              opportunities to grow and contribute to data-driven decision making.
+              Data Analyst Intern at CODpartner, specializing in business intelligence and seller performance analytics. 
+              Passionate about transforming data into actionable insights. Pursuing IBM Data Analyst and Google Data Analytics 
+              certifications while developing tools and dashboards that drive data-driven decision making.
             </p>
           </div>
 
@@ -96,9 +96,9 @@ export function Hero() {
                   <Target className="h-6 w-6 text-emerald-600" />
                 </div>
               </div>
-              <p className="font-semibold text-foreground mb-1">Current Goal</p>
-              <p className="text-sm text-muted-foreground">Data Analyst Position</p>
-              <p className="text-xs text-emerald-600 font-medium">Internship or Entry-Level</p>
+              <p className="font-semibold text-foreground mb-1">Current Role</p>
+              <p className="text-sm text-muted-foreground">Data Analyst Intern</p>
+              <p className="text-xs text-emerald-600 font-medium">CODpartner - Business Intelligence</p>
             </div>
           </div>
         </div>
