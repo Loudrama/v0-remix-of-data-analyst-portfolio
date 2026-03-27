@@ -87,7 +87,7 @@ export function Hero() {
               </div>
               <p className="font-semibold text-foreground mb-1">Education</p>
               <p className="text-sm text-muted-foreground">1337 School (UM6P)</p>
-              <p className="text-xs text-primary font-medium">Common Core in Progress</p>
+              <p className="text-xs text-emerald-600 font-medium">✓ Common Core Completed</p>
             </div>
 
             <div className="bg-gradient-to-br from-background/80 to-muted/30 backdrop-blur-sm rounded-xl p-6 border border-border/50 hover:border-emerald-500/30 transition-all duration-300 hover:shadow-lg">
