@@ -45,6 +45,13 @@ export function Navigation() {
             </Button>
             <Button
               variant="ghost"
+              onClick={() => scrollToSection("internship")}
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
+            >
+              Internship
+            </Button>
+            <Button
+              variant="ghost"
               onClick={() => scrollToSection("skills")}
               className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
             >
@@ -59,6 +66,14 @@ export function Navigation() {
             </Button>
           </div>
           <div className="md:hidden flex gap-2">
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => scrollToSection("internship")}
+              className="text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer"
+            >
+              Internship
+            </Button>
             <Button
               variant="ghost"
               size="sm"
